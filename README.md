@@ -8,6 +8,10 @@ This is a simple app result of the implementation of the challenge requested in 
 - Unit test are included however no UI tests so far
 - Known issue: I tried to implement an offline list support, however it's not working as some work is pending to search in offline, however as it's not part of the scope of the project I decided to left it as is.
 
+##Demo
+
+https://user-images.githubusercontent.com/2331642/222932821-80938b25-bff4-452a-bd01-2ac22d90ce36.mp4
+
 Any comments are always welcome!
 Thank you 
 
