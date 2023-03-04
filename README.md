@@ -10,7 +10,10 @@ This is a simple app result of the implementation of the challenge requested in 
 
 ##Demo
 
-https://user-images.githubusercontent.com/2331642/222932821-80938b25-bff4-452a-bd01-2ac22d90ce36.mp4
+Below a demo of the app working exploring recipes with internet and fetching the recipes without internet too (from DB), also playing with Configuration changes like screen rotation
+
+https://user-images.githubusercontent.com/2331642/222932967-a5db46b8-ee66-4792-9a3b-9cd767ff9ab3.mp4
+
 
 Any comments are always welcome!
 Thank you 
